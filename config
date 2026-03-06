@@ -11,10 +11,6 @@ shell-integration-features = no-cursor,sudo,no-title
 cursor-style = block
 adjust-cell-height = 30%
 
-background-image-opacity = 0.2
-background-image = ~/.config/ghostty/backgrounds/bloodborne.jpeg
-background-image-fit = cover
-
 mouse-hide-while-typing = true
 mouse-scroll-multiplier = 2
 window-padding-balance = true
