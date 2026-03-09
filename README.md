@@ -13,17 +13,19 @@ My personal configuration for [Ghostty](https://ghostty.org/), a fast, native, f
 ## What's Included
 
 - `config` - Main Ghostty configuration file
-- `backgrounds/` - Background images (Bloodborne, Elden Ring)
+- `backgrounds/` - Background images (Elden Ring)
 - `themes/` - Catppuccin Macchiato theme
 
 ## Installation
 
 1. Clone this repository:
+
    ```bash
    git clone https://github.com/jonwasdone/ghostty-config.git ~/.config/ghostty
    ```
 
 2. Make sure you have the required font installed:
+
    - [Inconsolata LGC Nerd Font](https://www.nerdfonts.com/)
 
 3. Restart Ghostty or reload the configuration
@@ -31,10 +33,12 @@ My personal configuration for [Ghostty](https://ghostty.org/), a fast, native, f
 ## Key Features
 
 - **Custom Keybindings**:
+
   - `Ctrl+W` (global): Toggle quick terminal
   - `Shift+Enter`: Send escape sequence
 
 - **Visual Enhancements**:
+
   - Background image with 20% opacity
   - Display P3 wide color gamut support
   - Custom cursor color
